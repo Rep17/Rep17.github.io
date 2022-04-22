@@ -10,4 +10,3 @@ Project | Description | HTML Output | Rmd Code
 Forecasting Inflation | Inflation Forecast | [html](https://rep17.github.io/Upload_inflation/) | [code](https://github.com/Rep17/Upload_inflation)
 VAR Model | Unemployment rate & Total Vehicle sales | [html](https://rep17.github.io/VAR_Upload/) |
 [code](https://github.com/Rep17/VAR_Upload)
-
