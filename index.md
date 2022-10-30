@@ -15,5 +15,5 @@ Department of Economics<br/>
 Florida State University <br/>
 Tallahassee, Florida, 32306 <br/>
 
-[Email:beaumont@fsu.edu](mailto:rep17@my.fsu.edu)
+[Email:rep17@fsu.edu](mailto:rep17@fsu.edu)
 
